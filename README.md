@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b01233fc-4395-4bcd-88b7-4e06066f20ec" alt="Welcome Banner" />
-</p>
+  <img src="https://github.com/user-attachments/assets/f987e8bb-9d26-4985-a7b4-520080fc97d6" alt="Welcome Banner" />
+</p>!
 
 <h1 align="center">Hi, I'm LetsCodez 👋</h1>
 
