@@ -11,7 +11,7 @@
 <hr />
 
 ### 🚀 Current Projects:
-- **[Eduvity](https://eduvity.vercel.app/)**: A platform designed to uplift students by providing access to high-quality educational materials. 📚
+- **[Eduviti](https://eduviti.vercel.app/)**: A platform designed to uplift students by providing access to high-quality educational materials. 📚
 
 ### 🔮 Future Projects:
 - **Task Management SaaS**: A modern, intuitive platform for professionals and students focused on productivity, powered by the latest technologies. 🧑‍💻✨
