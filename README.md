@@ -2,6 +2,8 @@
   <img src="https://github.com/user-attachments/assets/f987e8bb-9d26-4985-a7b4-520080fc97d6" alt="Welcome Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);"/>
 </p>
 
+---
+
 <p align="center" style="margin-bottom: 20px;">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=28&color=00BFFF&background=00000000&center=true&vCenter=true&lines=Hi%2C+I%27m+LetsCodez+%F0%9F%91%8B&speed=50" alt="Hi I'm LetsCodez👋" />
 </p>
@@ -81,6 +83,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=LetsCodez&theme=radical&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
+---
+
 ### Connect with Me:
 
 <p align="center">
@@ -97,5 +101,7 @@
     <img width="50" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_128px.png" />
   </a>
 </p>
+
 ---
+
 ✨ *Feel free to check out my repositories, fork, and star your favorites! Let's build the future together!*  
