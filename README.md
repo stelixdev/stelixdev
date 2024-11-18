@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" style="margin-bottom: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=28&color=00BFFF&background=00000000&center=true&vCenter=true&lines=Hi%2C+I%27m+LetsCodez+%F0%9F%91%8B" alt="Hi I'm LetsCodez👋" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=28&color=00BFFF&background=00000000&center=true&vCenter=true&lines=Hi%2C+I%27m+LetsCodez+%F0%9F%91%8B&speed=50" alt="Hi I'm LetsCodez👋" />
 </p>
 
 <p align="center" style="font-family: 'Arial', sans-serif; font-size: 18px; color: #FFFFFF; max-width: 800px; text-align: center; line-height: 1.5; margin-bottom: 20px;">
@@ -97,3 +97,5 @@
     <img width="50" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_128px.png" />
   </a>
 </p>
+---
+✨ *Feel free to check out my repositories, fork, and star your favorites! Let's build the future together!*  
