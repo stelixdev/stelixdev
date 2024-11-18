@@ -148,7 +148,9 @@ Kaam Kaaj   404 Not Found         ░░░░░░░░░░░░░░░�
 ### 📈 GitHub Stats & Trophies 🏆
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LetsCodez&show_icons=true&theme=transparent&hide_border=true" alt="LetsCodez's GitHub stats" style="display: inline-block; margin-right: 15px;" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LetsCodez&theme=transparent&hide_border=true" alt="GitHub Streak" style="display: inline-block;"  width="50%" />
+  
+  <img src="https://streak-stats.demolab.com/?user=LetsCodez&theme=transparent&hide_border=true" alt="GitHub Streak" style="display: inline-block;" />
+  
 <img src="https://github-profile-trophy.vercel.app/?username=LetsCodez&theme=radical&no-bg=true&row=2&column=3&margin-w=15&margin-h=15&hide_border=true" alt="GitHub Trophies" /> 
 </p>
 
