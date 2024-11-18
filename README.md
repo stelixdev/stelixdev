@@ -140,10 +140,10 @@ Kaam Kaaj   404 Not Found         ░░░░░░░░░░░░░░░�
 
 ### 📈 GitHub Stats & Trophies 🏆
 <p>
-  
-  ![LetsCodez's GitHub stats](https://github-readme-stats.vercel.app/api?username=LetsCodez&show_icons=true&theme=transparent) <img src="https://github-readme-streak-stats.herokuapp.com/?user=LetsCodez&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Streak" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=LetsCodez&show_icons=true&theme=transparent" alt="LetsCodez's GitHub stats" style="display: inline-block; margin-right: 15px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LetsCodez&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Streak" style="display: inline-block;" />
 </p>
+
 <p align="center"">
 <img src="https://github-profile-trophy.vercel.app/?username=LetsCodez&theme=radical&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" /> 
 </p>
