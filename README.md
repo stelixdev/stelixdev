@@ -129,8 +129,8 @@ const whoami = {
 <!--START_SECTION:waka-->
 
 ```txt
-TimePass    2 ghante 22 minute   █████████████████████████   99.86 %
-Kaam Kaaj   0 second             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+TimePass    36 ghante 99 minute   █████████████████████████   99.86 %
+Kaam Kaaj   404 Not Found         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 <!--END_SECTION:waka-->
 
