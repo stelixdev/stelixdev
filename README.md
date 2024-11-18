@@ -1,3 +1,4 @@
+
 <p align="center" style="margin-bottom: 20px;">
   <img src="https://github.com/user-attachments/assets/f987e8bb-9d26-4985-a7b4-520080fc97d6" alt="Welcome Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);"/>
 </p>
@@ -5,38 +6,43 @@
 ---
 <p align="center" style="margin-bottom: 20px;">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=24&color=00BFFF&background=00000000&center=true&vCenter=true&lines=Namaste%2C+I%27m+LetsCodez+%F0%9F%99%8F&duration=4000" alt="Namaste, I'm LetsCodez 🙏" />
-</p>
-
-
-
-
+</p> 
 <p align="center" style="font-family: 'Arial', sans-serif; font-size: 18px; color: #FFFFFF; max-width: 800px; text-align: center; line-height: 1.5; margin-bottom: 20px;">
   I am a passionate <strong>frontend developer</strong> and <strong>web enthusiast</strong> from New Delhi, India. I enjoy building scalable websites and experimenting with new web technologies. I have experience working with <strong>Next.js</strong>, <strong>React</strong>, <strong>Tailwind CSS</strong>, and other modern web tools.
 </p>
-
-### <img src="https://github.com/user-attachments/assets/60d32718-8c00-470c-b552-72bc9ff35206" height="40px" style="border-radius: 50%;">    A little More About Me.. 
+ 
+### A little More About Me..   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ```javascript
 const whoami = {
-  name: "LetsCodez" | "Anuj Sah"
+  name: "LetsCodez" | "Anuj Sah",
   pronouns: "he" | "him",
   code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "C"],
   tools: ["React", "Next.js", "TailwindCSS", "Figma", "Linux", "Firebase"],
   projects: {
-    Eduvity: "Eduvity is an online learning platform providing curated video lectures and question banks for JEE preparation, designed for both advanced and foundational learners.",
-    Theorix: "Theorix is a project focused on creating innovative educational tools and resources, offering engaging learning experiences in various subjects.",
+    Eduvity: `Eduvity is an online learning platform
+    providing curated video lectures and question banks
+    for JEE preparation, designed for both advanced
+    and foundational learners.`,
+    Theorix: `Theorix is a project focused on creating 
+    innovative educational tools and resources, offering 
+    engaging learning experiences in various subjects.`,
   },
   tagline: "Scripting the future",
+  dedication: `I am a developer who commits to coding
+  like an infinite loop: no breaks, just pure dedication. 
+  My dedication is constantly evolving, like a recursive
+  function with no base case. Get ready to loop through all the
+  code I create, because I'm just getting started! 😎`
+  favourite_language : "Chai – it compiles my thoughts.",
+  focus: (!1),
   contact: {
     email: "letscodez17@gmail.com",
     instagram: "@letscodez17",
   },
 };
-
 ```
-
 ---
-
 ### 🚀 **Current Projects** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 🌐 **[EduViti](https://eduviti.me/)**  
@@ -47,7 +53,7 @@ const whoami = {
 
 ---
 
-### 🔮 **Upcoming Projects**  
+### 🔮 **Upcoming Projects**  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 🚀 **[Theorix](#)**  
 > Free learning resources for science and math.  
@@ -57,7 +63,7 @@ const whoami = {
 
 ---
 
-### 🌱 I’m currently learning:
+### 🌱 I’m currently learning:<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 **React.js, Next.js, and advanced TypeScript concepts**.
 
 📫 How to reach me: **letscodez17@gmail.com**, **[Instagram](https://www.instagram.com/letscodez17/?utm_source=ig_web_button_share_sheet)**  
@@ -66,7 +72,7 @@ const whoami = {
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <table align="center">
   <tr>
     <td align="center">
@@ -125,12 +131,13 @@ const whoami = {
 
 ---
 
-### 🔪Daily ScoreCard
+### Daily ScoreCard 
+<img src="https://github.com/user-attachments/assets/60d32718-8c00-470c-b552-72bc9ff35206" height="60px" style="border-radius: 50%;">  
 <!--START_SECTION:waka-->
 
 ```txt
-TimePass    36 ghante 99 minute   █████████████████████████   99.86 %
-Kaam Kaaj   404 Not Found         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+TimePass    36 ghante 99 minute   ████████████████████   99.86 %
+Kaam Kaaj   404 Not Found         ░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 <!--END_SECTION:waka-->
 
@@ -139,16 +146,15 @@ Kaam Kaaj   404 Not Found         ░░░░░░░░░░░░░░░�
 ---
 
 ### 📈 GitHub Stats & Trophies 🏆
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=LetsCodez&show_icons=true&theme=transparent" alt="LetsCodez's GitHub stats" style="display: inline-block; margin-right: 15px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LetsCodez&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Streak" style="display: inline-block;" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LetsCodez&show_icons=true&theme=transparent" alt="LetsCodez's GitHub stats" style="display: inline-block; margin-right: 15px;" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LetsCodez&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Streak" style="display: inline-block;" width="50%" />
 <img src="https://github-profile-trophy.vercel.app/?username=LetsCodez&theme=radical&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" /> 
-
 </p>
 
 ---
 
-### Most Used Languages
+### Most Used Languages <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <!--START_SECTION:waka-->
 
 ```txt
@@ -161,10 +167,12 @@ HTML         ██ 2%
 <!--END_SECTION:waka-->
 ---
 
-### Connect with Me:
-
+### Connect with Me: 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anuj-sah-0ab175334/">
+  <a href="https://www.github.com/LetsCodez">
+    <img src="https://github.com/user-attachments/assets/60d32718-8c00-470c-b552-72bc9ff35206" height="50px"> 
+  </a>
+    <a href="https://www.linkedin.com/in/anuj-sah-0ab175334/">
     <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="margin-right: 15px;" />
   </a>
   <a href="https://www.instagram.com/letscodez17/?utm_source=ig_web_button_share_sheet">
