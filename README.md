@@ -125,7 +125,7 @@ const whoami = {
 
 ---
 
-### Daily ScoreCard
+### 🔪Daily ScoreCard
 <!--START_SECTION:waka-->
 
 ```txt
