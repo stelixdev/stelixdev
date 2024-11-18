@@ -33,7 +33,7 @@ const whoami = {
   like an infinite loop: no breaks, just pure dedication. 
   My dedication is constantly evolving, like a recursive
   function with no base case. Get ready to loop through all the
-  code I create, because I'm just getting started! 😎`
+  code I create, because I'm just getting started! 😎`,
   favourite_language: "Chai – it compiles my thoughts.",
   focus: (!1),
   contact: {
