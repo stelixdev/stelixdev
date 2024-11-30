@@ -20,14 +20,15 @@ const whoami = {
   code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "C"],
   tools: ["React", "Next.js", "TailwindCSS", "Figma", "Linux", "Firebase"],
   projects: {
-    Eduvity: `Eduvity is an online learning platform
-    providing curated video lectures and question banks
-    for JEE preparation, designed for both advanced
-    and foundational learners.`,
-    Theorix: `Theorix is a project focused on creating 
-    innovative educational tools and resources, offering 
-    engaging learning experiences in various subjects.`,
-  },
+  AceVault: `AceVault is a secure storage application
+  designed to manage sensitive data with a focus on simplicity,
+  security, and performance. Built with Appwrite, Shadcn, and
+  other modern technologies to provide a seamless experience for
+  data security.`,
+  Theorix: `Theorix is a project focused on creating innovative
+  educational tools and resources, offering engaging learning
+  experiences in various subjects.`,
+},
   tagline: "Scripting the future",
   dedication: `I am a developer who commits to coding
   like an infinite loop: no breaks, just pure dedication. 
