@@ -45,11 +45,12 @@ const whoami = {
 ---
 ### 🚀 **Current Projects** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-🌐 **[EduViti](https://eduviti.me/)**  
-> A next-gen educational platform combining traditional learning with modern tech.  
-- 💡 **Concept**: Interactive tools, live problem-solving, AI-driven paths.  
-- 🔗 **Vision**: Empowering students for success in competitive fields.  
-- 🔧 **Tools**: Nextjs, Tailwind CSS, Postcss, Aceternity, Shadcn.
+🌐 **[AceVault](https://AceVault.vercel.app)**  
+> A secure storage application designed to manage sensitive data with a focus on simplicity, security, and performance.  
+
+- 💡 **Concept**: Safe storage and easy access to passwords, API keys, and other sensitive information with modern encryption and user-friendly features.  
+- 🔗 **Vision**: Empowering developers to securely store and manage critical data with an efficient and reliable tool.  
+- 🔧 **Tools**: Built with **Appwrite**, **Shadcn**, and other modern technologies to provide a seamless and robust experience for data security.  
 
 ---
 
