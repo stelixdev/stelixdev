@@ -1,9 +1,10 @@
 
 <p align="center" style="margin-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/f987e8bb-9d26-4985-a7b4-520080fc97d6" alt="Welcome Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);"/>
+  <img src="https://github.com/user-attachments/assets/3a82a6c4-16a1-499e-b37d-b9d472a4a20f" alt="Welcome Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);"/>
 </p>
 
 ---
+
 <p align="center" style="margin-bottom: 20px;">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=24&color=00BFFF&background=00000000&center=true&vCenter=true&lines=Namaste%2C+I%27m+Matrix.Dev+%F0%9F%99%8F&duration=4000" alt="Namaste, I'm Martix.Dev 🙏" />
 </p> 
