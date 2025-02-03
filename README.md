@@ -5,7 +5,7 @@
 
 ---
 <p align="center" style="margin-bottom: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=24&color=00BFFF&background=00000000&center=true&vCenter=true&lines=Namaste%2C+I%27m+LetsCodez+%F0%9F%99%8F&duration=4000" alt="Namaste, I'm LetsCodez 🙏" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=24&color=00BFFF&background=00000000&center=true&vCenter=true&lines=Namaste%2C+I%27m+Matrix.Dev+%F0%9F%99%8F&duration=4000" alt="Namaste, I'm Martix.Dev 🙏" />
 </p> 
 <p align="center" style="font-family: 'Arial', sans-serif; font-size: 18px; color: #FFFFFF; max-width: 800px; text-align: center; line-height: 1.5; margin-bottom: 20px;">
   I am a passionate <strong>frontend developer</strong> and <strong>web enthusiast</strong> from New Delhi, India. I enjoy building scalable websites and experimenting with new web technologies. I have experience working with <strong>Next.js</strong>, <strong>React</strong>, <strong>Tailwind CSS</strong>, and other modern web tools.
@@ -15,7 +15,7 @@
 
 ```javascript
 const whoami = {
-  name: "LetsCodez" | "Anuj Sah",
+  name: "Matrix.Dev" | "Anuj Sah",
   pronouns: "he" | "him",
   code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "C"],
   tools: ["React", "Next.js", "TailwindCSS", "Figma", "Linux", "Firebase"],
@@ -38,8 +38,8 @@ const whoami = {
   favourite_language: "Chai – it compiles my thoughts.",
   focus: (!1),
   contact: {
-    email: "letscodez17@gmail.com",
-    instagram: "@letscodez17",
+    email: "anuj.sah.official@gmail.com",
+    instagram: "@matrix.dev",
   },
 };
 ```
@@ -68,8 +68,8 @@ const whoami = {
 ### 🌱 I’m currently learning:<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 **React.js, Next.js, and advanced TypeScript concepts**.
 
-📫 How to reach me: **letscodez17@gmail.com**, **[Instagram](https://www.instagram.com/letscodez17/?utm_source=ig_web_button_share_sheet)**  
-👨‍💻 All of my projects are available at: **[My Portfolio](https://github.com/LetsCodez)**  
+📫 How to reach me: **anuj.sah.official@gmail.com**, **[Instagram](https://www.instagram.com/matrix.dev/?utm_source=ig_web_button_share_sheet)**  
+👨‍💻 All of my projects are available at: **[My Portfolio](https://github.com/matrixdevx)**  
 ⚡ Fun fact: **I love exploring new technologies and testing their limits in my spare time.**
 
 ---
