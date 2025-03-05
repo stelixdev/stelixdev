@@ -113,7 +113,7 @@ const whoami = {
       <br>Figma
     </td>
     <td align="center">
-      <img width="50" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="Next.js" />
+      <img width="50" src="https://asset.brandfetch.io/id2alue-rx/idGu8IJBd3.svg?updated=1714556221292" alt="Next.js" />
       <br>Next.js
     </td>
     <td align="center">
