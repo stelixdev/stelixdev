@@ -1,12 +1,12 @@
 
 <p align="center" style="margin-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/3a82a6c4-16a1-499e-b37d-b9d472a4a20f" alt="Welcome Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);"/>
+  <img src="https://github.com/user-attachments/assets/0a07c77f-6a24-425f-aa33-3924804e433c" alt="Welcome Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);"/>
 </p>
 
 ---
 
 <p align="center" style="margin-bottom: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=24&color=00BFFF&background=00000000&center=true&vCenter=true&lines=Namaste%2C+I%27m+Matrix.Dev+%F0%9F%99%8F&duration=4000" alt="Namaste, I'm Martix.Dev 🙏" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=24&color=00BFFF&background=00000000&center=true&vCenter=true&lines=Namaste%2C+I%27m+Stelix.Dev+%F0%9F%99%8F&duration=4000" alt="Namaste, I'm Martix.Dev 🙏" />
 </p> 
 <p align="center" style="font-family: 'Arial', sans-serif; font-size: 18px; color: #FFFFFF; max-width: 800px; text-align: center; line-height: 1.5; margin-bottom: 20px;">
   I am a passionate <strong>frontend developer</strong> and <strong>web enthusiast</strong> from New Delhi, India. I enjoy building scalable websites and experimenting with new web technologies. I have experience working with <strong>Next.js</strong>, <strong>React</strong>, <strong>Tailwind CSS</strong>, and other modern web tools.
@@ -16,7 +16,7 @@
 
 ```javascript
 const whoami = {
-  name: "Matrix.Dev" | "Anuj Sah",
+  name: "Stelix.Dev" | "Anuj Sah",
   pronouns: "he" | "him",
   code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "C"],
   tools: ["React", "Next.js", "TailwindCSS", "Figma", "Linux", "Firebase"],
@@ -40,7 +40,7 @@ const whoami = {
   focus: (!1),
   contact: {
     email: "anuj.sah.official@gmail.com",
-    instagram: "@matrix.dev",
+    instagram: "@stelixdev",
   },
 };
 ```
@@ -69,8 +69,8 @@ const whoami = {
 ### 🌱 I’m currently learning:<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 **React.js, Next.js, and advanced TypeScript concepts**.
 
-📫 How to reach me: **anuj.sah.official@gmail.com**, **[Instagram](https://www.instagram.com/matrix.dev/?utm_source=ig_web_button_share_sheet)**  
-👨‍💻 All of my projects are available at: **[My Portfolio](https://github.com/matrixdevx)**  
+📫 How to reach me: **anuj.sah.official@gmail.com**, **[Instagram](https://www.instagram.com/stelixdev/?utm_source=ig_web_button_share_sheet)**  
+👨‍💻 All of my projects are available at: **[My Portfolio](https://github.com/stelixdev)**  
 ⚡ Fun fact: **I love exploring new technologies and testing their limits in my spare time.**
 
 ---
