@@ -150,11 +150,11 @@ Kaam Kaaj   404 Not Found         ░░░░░░░░░░░░░░░�
 
 ### 📈 GitHub Stats & Trophies 🏆
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LetsCodez&show_icons=true&theme=transparent&hide_border=true" alt="LetsCodez's GitHub stats" style="display: inline-block; margin-right: 15px;" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stelixdev&show_icons=true&theme=transparent&hide_border=true" alt="stelixdev's GitHub stats" style="display: inline-block; margin-right: 15px;" width="49%" />
   
-  <img src="https://streak-stats.demolab.com/?user=LetsCodez&theme=transparent&hide_border=true" alt="GitHub Streak" style="display: inline-block;" width="50%" />
+  <img src="https://streak-stats.demolab.com/?user=stelixdev&theme=transparent&hide_border=true" alt="GitHub Streak" style="display: inline-block;" width="50%" />
   
-<img src="https://github-profile-trophy.vercel.app/?username=LetsCodez&row=2&column=3&margin-w=15&margin-h=15&hide_border=true`&no-frame=true&theme=darkhub" alt="GitHub Trophies" /> 
+<img src="https://github-profile-trophy.vercel.app/?username=stelixdev&row=2&column=3&margin-w=15&margin-h=15&hide_border=true`&no-frame=true&theme=darkhub" alt="GitHub Trophies" /> 
 </p>
 
 ---
@@ -174,26 +174,26 @@ HTML         ██ 2%
 
 ### Connect with Me: 
 <p align="center">
-  <a href="https://www.github.com/LetsCodez">
+  <a href="https://www.github.com/stelixdev">
     <img src="https://github.com/user-attachments/assets/60d32718-8c00-470c-b552-72bc9ff35206" height="50px"> 
   </a>
     <a href="https://www.linkedin.com/in/anuj-sah-0ab175334/">
     <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="margin-right: 15px;" />
   </a>
-  <a href="https://www.instagram.com/letscodez17/?utm_source=ig_web_button_share_sheet">
+  <a href="https://www.instagram.com/stelixdev17/?utm_source=ig_web_button_share_sheet">
     <img width="50" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/62-instagram-128.png" style="margin-right: 15px;" />
   </a>
-  <a href="https://github.com/LetsCodez">
+  <a href="https://github.com/stelixdev">
     <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" style="margin-right: 15px;" />
   </a>
-  <a href="mailto:letscodez17@gmail.com">
+  <a href="mailto:stelixdev17@gmail.com">
     <img width="50" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_128px.png" />
   </a>
 </p>
 
 ---
 
-### Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/LetsCodez/count.svg)
+### Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/stelixdev/count.svg)
 
 ✨ *Feel free to check out my repositories, fork, and star your favorites! Let's build the future together!*  
 <p align="center">
